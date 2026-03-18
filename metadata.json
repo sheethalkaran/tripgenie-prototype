@@ -1,0 +1,7 @@
+{
+  "name": "TripGenie",
+  "description": "Modern AI-powered travel planning with lightning-fast itineraries and professional packing audits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
