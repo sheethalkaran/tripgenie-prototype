@@ -9,7 +9,8 @@ Experimental prototype of **TripGenie**, a travel planning application built usi
 
 **Live Demo:** [Open in AI Studio](https://ai.studio/apps/24b2d5af-c8c5-41c2-8b8a-737bbf9ffe95?fullscreenApplet=true)
 
-> This is a prototype built for experimentation with generative AI tools. The full Android application is developed separately using Kotlin.
+> This is a prototype built for experimentation with generative AI tools.
+> The full Android application is developed separately using Kotlin.
 
 ## Features
 
