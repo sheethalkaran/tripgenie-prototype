@@ -13,24 +13,11 @@ Experimental prototype of **TripGenie**, a travel planning application built usi
 > The full Android application is developed separately using Kotlin.
 
 ## Features
-
-- **Itinerary Generation**  
-  Generates structured, day-wise travel plans with organized activities and timelines.
-
-- **Packing Guide**  
-  Provides essential packing recommendations based on destination, duration, and activities.
-
-- **Local Cuisine Discovery**  
-  Highlights iconic local dishes and recommends places to experience regional food.
-
-- **Interactive Map Integration**  
-  Displays travel locations with route visualization and day-wise organization.
-
-- **Trip Saving and Offline Access**  
-  Saves itineraries locally and allows offline access.
-
-- **Responsive User Interface**  
-  Ensures a consistent experience across desktop, tablet, and mobile devices.
+- AI-based itinerary generation  
+- Smart packing suggestions  
+- Local cuisine recommendations  
+- Map-based trip visualization  
+- Responsive interface  
 
 ## Run Locally
 
