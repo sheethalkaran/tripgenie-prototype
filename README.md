@@ -7,10 +7,9 @@
 Experimental prototype of **TripGenie**, a travel planning application built using Google AI Studio. Demonstrates how generative AI can be used to create curated itineraries, packing guides, and local cuisine recommendations.
 
 
-**Live Demo:**[Open in AI Studio](https://ai.studio/apps/24b2d5af-c8c5-41c2-8b8a-737bbf9ffe95?fullscreenApplet=true)
+**Live Demo:** [Open in AI Studio](https://ai.studio/apps/24b2d5af-c8c5-41c2-8b8a-737bbf9ffe95?fullscreenApplet=true)
 
-> This is a prototype built for experimentation with generative AI tools.  
-> The full Android application is developed separately using Kotlin.
+> This is a prototype built for experimentation with generative AI tools. The full Android application is developed separately using Kotlin.
 
 ## Features
 
