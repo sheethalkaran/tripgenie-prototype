@@ -2,10 +2,15 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# TripGenie - Travel Planner
-A travel planning application that enables users to create curated itineraries, access packing guides, and explore local cuisine for a seamless travel experience.
+# TripGenie (Prototype)
 
-[Open in AI Studio](https://ai.studio/apps/24b2d5af-c8c5-41c2-8b8a-737bbf9ffe95?fullscreenApplet=true)
+Experimental prototype of **TripGenie**, a travel planning application built using Google AI Studio. Demonstrates how generative AI can be used to create curated itineraries, packing guides, and local cuisine recommendations.
+
+
+**Live Demo:**[Open in AI Studio](https://ai.studio/apps/24b2d5af-c8c5-41c2-8b8a-737bbf9ffe95?fullscreenApplet=true)
+
+> This is a prototype built for experimentation with generative AI tools.  
+> The full Android application is developed separately using Kotlin.
 
 ## Features
 
